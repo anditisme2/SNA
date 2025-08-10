@@ -23,3 +23,7 @@ When complete, this project will give you:
 - [Instagram Graph API Documentation](https://developers.facebook.com/docs/instagram-api)
 - [NetworkX Documentation](https://networkx.org/documentation/stable/)
 - [Social Network Analysis in Python (DataCamp)](https://www.datacamp.com/courses/network-analysis-in-python-part-1)
+
+
+## Author
+Anushka Rana
